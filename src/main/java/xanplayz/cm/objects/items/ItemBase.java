@@ -14,7 +14,7 @@ public class ItemBase extends Item implements IHasModel
 	{
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.COPPER);
 		
 		
 		ItemInit.ITEMS.add(this);
