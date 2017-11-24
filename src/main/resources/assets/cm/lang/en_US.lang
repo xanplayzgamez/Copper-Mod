@@ -1,3 +1,5 @@
 item.ingot_copper.name=Copper Ingot
 
 tile.block_copper.name=Copper Block
+
+itemGroup.copper_tab=Copper Mod
